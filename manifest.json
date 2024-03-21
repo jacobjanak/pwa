@@ -3,12 +3,12 @@
   "name": "pwa test",
   "icons": [
     {
-      "src": "/icon.png",
+      "src": "/pwa/icon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/icon.png",
+      "src": "/pwa/icon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
